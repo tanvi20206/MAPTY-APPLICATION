@@ -1,0 +1,1 @@
+The 🏃‍♀️🏃‍♀️ Mapty Application 🚴‍♂️🚴‍♂️is a web application designed to help users log and track their workouts on a map, providing a visual and organized way to monitor fitness activities like running and cycling.
